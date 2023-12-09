@@ -1,5 +1,5 @@
  // Countdown timer
- const countdownDate = new Date('December 9, 2023 23:00:00').getTime();
+ const countdownDate = new Date('December 9, 2023 23:30:00').getTime();
 
  const countdown = setInterval(function() {
      const now = new Date().getTime();
